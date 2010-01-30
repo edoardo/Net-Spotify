@@ -5,7 +5,7 @@ use warnings;
 
 use base 'Net::Spotify::Service';
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 sub format_request {
     my ($self, %parameters) = @_;

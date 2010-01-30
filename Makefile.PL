@@ -16,6 +16,8 @@ WriteMakefile(
         'LWP::UserAgent' => 0,
         'URI' => 0,
         'URI::QueryParam' => 0,
+        'XML::TreePP' => 0,
+        'Getopt::Long' => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Net-Spotify-*' },
