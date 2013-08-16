@@ -8,7 +8,7 @@ use LWP::UserAgent ();
 use URI ();
 use URI::QueryParam ();
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 sub new {
     my $class = shift;
@@ -86,7 +86,7 @@ Net::Spotify::Service - Perl interface to the Spotify Metadata API
 
 =head1 VERSION
 
-Version 0.01
+Version 0.03
 
 =head1 SYNOPSIS
 
@@ -111,7 +111,7 @@ This module is not intended to be used alone, but as a base for
 subclasses that implement a specific Spotify service.
 The two currently available services are C<lookup> and C<search>.
 
-L<http://developer.spotify.com/en/metadata-api/overview/>.
+L<https://developer.spotify.com/technologies/web-api/>.
 
 =head1 METHODS
 

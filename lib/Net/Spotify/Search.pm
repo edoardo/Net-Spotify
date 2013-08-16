@@ -5,7 +5,7 @@ use warnings;
 
 use base 'Net::Spotify::Service';
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 sub format_request {
     my ($self, $method, %parameters) = @_;
@@ -37,7 +37,7 @@ Net::Spotify::Search - Perl interface to the Spotify Metadata API
 
 =head1 VERSION
 
-Version 0.01
+Version 0.03
 
 =head1 SYNOPSIS
 
@@ -59,7 +59,7 @@ This module implements the interface to the C<search> service of the Spotify
 Metadata API.
 It inherits most of the methods from L<Net::Spotify::Service>.
 
-L<http://developer.spotify.com/en/metadata-api/search/>
+L<https://developer.spotify.com/technologies/web-api/search/>
 
 =head1 METHODS
 

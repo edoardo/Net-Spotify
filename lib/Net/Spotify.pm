@@ -6,7 +6,7 @@ use strict;
 use Net::Spotify::Lookup;
 use Net::Spotify::Search;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 sub new {
     my $class = shift;
@@ -45,7 +45,7 @@ Net::Spotify - Perl interface to the Spotify Metadata API
 
 =head1 VERSION
 
-Version 0.01
+Version 0.03
 
 =head1 SYNOPSIS
 
@@ -67,7 +67,7 @@ Version 0.01
 =head1 DESCRIPTION
 
 This module provides a simple interface to the Spotify Metadata API
-L<http://developer.spotify.com/en/metadata-api/overview/>.
+L<https://developer.spotify.com/technologies/web-api/>.
 The API allows to explore Spotify's music catalogue.
 It is possible to lookup a specific Spotify URI and retrieve various
 information about the resource it represents, and search for artists,

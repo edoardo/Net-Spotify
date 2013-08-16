@@ -1,7 +1,7 @@
 Net-Spotify
 
 This module provides a simple interface to the Spotify Metadata API
-<http://developer.spotify.com/en/metadata-api/overview/>.
+<https://developer.spotify.com/technologies/web-api/>.
 
 The API allows to explore Spotify's music catalogue.
 It is possible to lookup a specific Spotify URI and retrieve various
@@ -15,7 +15,7 @@ Enjoy! :)
 
 VERSION
 
-This is version 0.02.
+This is version 0.03.
 
 INSTALLATION
 
@@ -48,7 +48,7 @@ You can also look for information at:
         http://search.cpan.org/dist/Net-Spotify/
 
 
-COPYRIGHT AND LICENCE
+COPYRIGHT AND LICENSE
 
 Copyright (C) 2009 Edoardo Sabadelli
 

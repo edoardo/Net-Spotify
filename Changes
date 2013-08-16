@@ -1,5 +1,8 @@
 Revision history for Net-Spotify
 
+0.03    Fri Aug 16 21:15:52 CEST 2013
+        Applied patch from Torstein Husebø (fixed links to Spotify Metadata API).
+
 0.02    Sat Jan 30 16:09:08 CET 2010
         Added humanize option in the example script and moved it under scripts. Fixed TODO tests.
 

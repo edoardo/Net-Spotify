@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Net-Spotify
-version:            0.01
+version:            0.03
 abstract:           Perl interface to the Spotify Metadata API
 author:
     - Edoardo Sabadelli <edoardo@cpan.org>

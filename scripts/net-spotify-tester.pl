@@ -137,7 +137,7 @@ Simple command line script for testing Net::Spotify.
 
 L<Net:Spotify>
 
-L<http://developer.spotify.com/en/metadata-api/overview/>
+L<https://developer.spotify.com/technologies/web-api/>
 
 =head1 AUTHOR
 
